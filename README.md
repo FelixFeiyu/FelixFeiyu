@@ -1,7 +1,7 @@
 ## Hello World! 👋
 - 🔭 I’m currently working on CityUHK.
 - 🌱 I’m currently learning Computer Science
-- - 🤔 I’m interested in Artificial Intelligence, Computer Vision, LLM and so on.
+- 🤔 I’m interested in Artificial Intelligence, Computer Vision, LLM, etc.
 <!--
 **FelixFeiyu/FelixFeiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
