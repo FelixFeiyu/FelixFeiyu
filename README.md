@@ -1,7 +1,8 @@
 ## Hello World! 👋
 - 🔭 I’m currently studying at CityUHK.
 - 🌱 I’m currently majoring in Computer Science.
-- 🤔 I’m interested in Artificial Intelligence, Computer Vision, LLM, etc.
+- 🤔 I’m interested in Artificial Intelligence.
+
 <!--
 **FelixFeiyu/FelixFeiyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
